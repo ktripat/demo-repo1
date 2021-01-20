@@ -1,2 +1,2 @@
-# demo-repo1
-helloworld
+# CPSC8430 HW assignment-1
+
